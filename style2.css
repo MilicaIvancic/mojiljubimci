@@ -1,0 +1,10 @@
+url {display:block; margin:20px 190px; width:180px; text-align:center; width:1000px;}
+loc{display:block; background:#e6f1ff; color:#007a99; border: 1px solid #cce6ff;width:600px;  text-align:center; margin:10px; padding:2px; }
+lastmod {display:block; background:#e6f1ff;  color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px; padding:2px; }
+changefreq{display:block; background:#e6f1ff;  color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px; padding:2px;}
+priority {display:block; background:#e6f1ff; color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px; padding:2px; }
+
+item {display:block; margin:20px 190px; width:180px; text-align:center; width:1000px;}
+title {display:block; background:#e6f1ff; color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px; padding:5px;  }
+description{display:block; background:#e6f1ff; color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px; padding:5px; }
+link{display:block; background:#e6f1ff; color:#007a99; border: 1px solid #cce6ff; width:600px;  text-align:center; margin:10px;padding:5px;  }

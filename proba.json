@@ -1,0 +1,84 @@
+[
+	{
+		
+		"name" : "Islandski ovcar",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=431&alias=islandski-ovcar-iceland-dog",
+		"picture" : {
+			"src" :"slike/spic1.jpg",
+			"alt": "Islandski ovcar"
+		}
+	} ,
+	{
+
+		"name" : "Eurasir",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=671&alias=eurasir-eurasier",
+		"picture" : {
+			"src" : "slike/spic2.jpg",
+			"alt": "Eurasir"
+		}
+	} ,
+	{
+		
+		"name" : "Norveški špic",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=682&alias=norveski-spic-norsk-buhund",
+		"picture" : {
+			"src" : "slike/spic3.jpg",
+			"alt": "Norveški špic"
+		}
+	} ,
+	{
+		
+		"name" : "Sibirski haski",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=707&alias=sibirski-haski-siberian-husky",
+		"picture" : {
+			"src" :"slike/spic6.jpg",
+			"alt": "Sibirski haski"
+		}
+	} ,
+	{
+		
+		"name" : "Špic",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=710&alias=spic---veliki,-srednji,-mali,-patuljasti-spitz",
+		"picture" : {
+			"src" : "slike/spic7.jpg",
+			"alt": "Špic"
+		}
+	} ,
+	{
+		
+		"name" : "Norveški lovac na ptice",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=680&alias=norveski-lovac-na-ptice-norsk-lundehund",
+		"picture" : {
+			"src" : "slike/spic4.jpg",
+			"alt": "Norveški lovac na ptice"
+		}
+	} ,
+	{
+		
+		"name" : "Šiba",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=708&alias=siba-shiba",
+		"picture" : {
+			"src" : "slike/spic5.jpg",
+			"alt": "Šiba"
+		}
+	} ,
+	{
+		
+		"name" : "Šikoku",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=709&alias=sikoku-shikoku",
+		"picture" : {
+			"src" : "slike/spic8.jpg",
+			"alt": "Šikoku"
+		}
+	},
+	{
+		
+		"name" : "Vucji špic",
+		"description" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=711&alias=vucji-spic-wolf-spitz",
+		"picture" : {
+			"src" : "slike/spic9.jpg",
+			"alt": "Vucji špic"
+		}
+	}
+	
+]

@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".slika1 a").vanillabox();});

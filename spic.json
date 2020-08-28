@@ -1,0 +1,84 @@
+[
+	{
+		
+		"alt" : "Islandski ovcar",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=431&alias=islandski-ovcar-iceland-dog",
+		"opis" : {
+			"src" :"slike/spic1.jpg",
+			"alt": "Islandski ovcar"
+		}
+	} ,
+	{
+
+		"alt" : "Eurasir",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=671&alias=eurasir-eurasier",
+		"opis" : {
+			"src" : "slike/spic2.jpg",
+			"alt": "Eurasir"
+		}
+	} ,
+	{
+		
+		"alt" : "Norveški špic",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=682&alias=norveski-spic-norsk-buhund",
+		"slika" : {
+			"src" : "slike/spic3.jpg",
+			"alt": "Norveški špic"
+		}
+	} ,
+	{
+		
+		"alt" : "Sibirski haski",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=707&alias=sibirski-haski-siberian-husky",
+		"slika" : {
+			"src" :"slike/spic6.jpg",
+			"alt": "Sibirski haski"
+		}
+	} ,
+	{
+		
+		"alt" : "Špic",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=710&alias=spic---veliki,-srednji,-mali,-patuljasti-spitz",
+		"slika" : {
+			"src" : "slike/spic7.jpg",
+			"alt": "Špic"
+		}
+	} ,
+	{
+		
+		"alt" : "Norveški lovac na ptice",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=680&alias=norveski-lovac-na-ptice-norsk-lundehund",
+		"slika" : {
+			"src" : "slike/spic4.jpg",
+			"alt": "Norveški lovac na ptice"
+		}
+	} ,
+	{
+		
+		"alt" : "Šiba",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=708&alias=siba-shiba",
+		"slika" : {
+			"src" : "slike/spic5.jpg",
+			"alt": "Šiba"
+		}
+	} ,
+	{
+		
+		"alt" : "Šikoku",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=709&alias=sikoku-shikoku",
+		"slika" : {
+			"src" : "slike/spic8.jpg",
+			"alt": "Šikoku"
+		}
+	},
+	{
+		
+		"alt" : "Vucji špic",
+		"opis" : "http://www.zivotinje.rs/enciklopedijaStrana.php?id=711&alias=vucji-spic-wolf-spitz",
+		"slika" : {
+			"src" : "slike/spic9.jpg",
+			"alt": "Vucji špic"
+		}
+	}
+	
+]
